@@ -1,0 +1,1 @@
+Resolução da lista de exercícios - python.json.
